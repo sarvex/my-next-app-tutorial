@@ -88,5 +88,6 @@ const SelectItem = React.forwardRef(
   },
 );
 
-export default Language;
+SelectItem.displayName = 'SelectItem';
 
+export default Language;
