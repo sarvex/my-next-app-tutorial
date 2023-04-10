@@ -1,10 +1,8 @@
 'use client';
 
-import React from 'react';
-import * as Form from '@radix-ui/react-form';
-import { ChevronDownIcon, ChevronUpIcon } from '@radix-ui/react-icons';
 import Language from '@/components/select';
 import File from '@/components/toolbar';
+import * as Form from '@radix-ui/react-form';
 
 const InputForm = () => (
   <Form.Root className="w-[260px]">
@@ -25,7 +23,7 @@ const InputForm = () => (
       </div>
     </Form.Field>
     <Form.Submit asChild>
-      <button className="mt-[10px] box-border inline-flex h-[35px] w-full items-center justify-center rounded-[4px] bg-violet11  px-[15px] font-medium leading-none text-white shadow-[0_2px_10px] shadow-blackA7 hover:bg-white focus:shadow-[0_0_0_2px] focus:shadow-grey focus:outline-none">
+      <button className="focus:shadow-grey mt-[10px] box-border inline-flex h-[35px] w-full items-center justify-center rounded-[4px]  bg-violet11 px-[15px] font-medium leading-none text-white shadow-[0_2px_10px] shadow-blackA7 hover:bg-white focus:shadow-[0_0_0_2px] focus:outline-none">
         Recongize
       </button>
     </Form.Submit>
