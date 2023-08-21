@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@radix-ui/colors':
-    specifier: 2.0.1
-    version: 2.0.1
+    specifier: 2.1.0
+    version: 2.1.0
   '@radix-ui/react-form':
     specifier: 0.0.3
     version: 0.0.3(@types/react-dom@18.2.7)(@types/react@18.2.20)(react-dom@18.2.0)(react@18.2.0)
@@ -328,8 +328,8 @@ packages:
       tslib: 2.5.0
     dev: true
 
-  /@radix-ui/colors@2.0.1:
-    resolution: {integrity: sha512-EhWky2oSIf5y+BDfrAY+Rykrkh7m2/M/bgCVRr3M+Hnr4JOh+mtFZLHUS1j/WzaPw1uvd0vwhK3cbxsR0QnCgw==}
+  /@radix-ui/colors@2.1.0:
+    resolution: {integrity: sha512-gcBnxjS2u2c6thQz/9K1+Pt2ZYcm5WKU4SLi0emYkRmYbVUw+37rlc5wgLtYOsSsRP9nxVtbJJYj6WVO7UUmZg==}
     dev: false
 
   /@radix-ui/number@1.0.1:
