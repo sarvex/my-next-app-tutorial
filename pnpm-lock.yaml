@@ -45,8 +45,8 @@ dependencies:
     specifier: 3.3.3
     version: 3.3.3
   tesseract.js:
-    specifier: 4.1.2
-    version: 4.1.2
+    specifier: 4.1.4
+    version: 4.1.4
   typescript:
     specifier: 5.2.2
     version: 5.2.2
@@ -3523,8 +3523,8 @@ packages:
     resolution: {integrity: sha512-MJ+vtktjAaT0681uPl6TDUPhbRbpD/S9emko5rtorgHRZpQo7R3BG7h+3pVHgn1KjfNf1bvnx4B7KxEK8YKqpg==}
     dev: false
 
-  /tesseract.js@4.1.2:
-    resolution: {integrity: sha512-riCr/rbwt0siIf/HiC0W2J/6ndbEcRWVZvwTxeDRPgMwP4douBLYq7i4NgMigWAmJea7GA0r3XGLa2GknRYmPA==}
+  /tesseract.js@4.1.4:
+    resolution: {integrity: sha512-iLjJjLWVNV4PApofEsd54Y1MbjhzpPxEzF8EjYmC2CLN4hrUqO5aTNTSbGA7/QjycKtAWHhn2YmDR+6GFwi2Zg==}
     requiresBuild: true
     dependencies:
       bmp-js: 0.1.0
