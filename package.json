@@ -29,11 +29,11 @@
   "devDependencies": {
     "autoprefixer": "10.4.21",
     "classnames": "2.5.1",
-    "eslint": "9.23.0",
-    "eslint-config-next": "15.2.4",
+    "eslint": "9.37.0",
+    "eslint-config-next": "15.5.5",
     "eslint-config-prettier": "10.1.2",
     "postcss": "8.5.3",
-    "prettier": "3.5.3",
-    "prettier-plugin-tailwindcss": "0.6.11"
+    "prettier": "3.6.2",
+    "prettier-plugin-tailwindcss": "0.7.0"
   }
 }
