@@ -27,7 +27,7 @@
     "typescript": "5.9.3"
   },
   "devDependencies": {
-    "autoprefixer": "10.4.23",
+    "autoprefixer": "10.4.24",
     "classnames": "2.5.1",
     "eslint": "9.39.2",
     "eslint-config-next": "16.1.6",
